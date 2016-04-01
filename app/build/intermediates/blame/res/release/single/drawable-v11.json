@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/drawable-v11/ic_menu_info_details.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v11/ic_menu_info_details.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/drawable-v11/ic_menu_login.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v11/ic_menu_login.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/drawable-v11/ic_menu_close_clear_cancel.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v11/ic_menu_close_clear_cancel.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/drawable-v11/ic_menu_preferences.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v11/ic_menu_preferences.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/drawable-v11/ic_menu_goto.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v11/ic_menu_goto.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/drawable-v11/ic_menu_search.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v11/ic_menu_search.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/drawable-v11/stat_ic_menu_login.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v11/stat_ic_menu_login.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/drawable-v11/ic_menu_day.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v11/ic_menu_day.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/drawable-v11/btn_keyboard_key_trans_selected.9.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v11/btn_keyboard_key_trans_selected.9.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/drawable-v11/ic_menu_directions.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v11/ic_menu_directions.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/drawable-v11/ic_lock_power_off.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v11/ic_lock_power_off.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/drawable-v11/ic_menu_view.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v11/ic_menu_view.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/drawable-v11/btn_keyboard_key_trans_pressed.9.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v11/btn_keyboard_key_trans_pressed.9.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/drawable-v11/ic_menu_set_as.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v11/ic_menu_set_as.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/drawable-v11/ic_menu_sort_alphabetically.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v11/ic_menu_sort_alphabetically.png"
+    }
+]

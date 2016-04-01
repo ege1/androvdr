@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/layout-normal-long-v4/remote_vdr_numerics.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-normal-long/remote_vdr_numerics.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/layout-normal-long-v4/remote_vdr_main.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-normal-long/remote_vdr_main.xml"
+    }
+]

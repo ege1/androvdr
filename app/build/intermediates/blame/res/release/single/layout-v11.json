@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/layout-v11/epgsdata_item.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-v11/epgsdata_item.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/layout-v11/part_header.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-v11/part_header.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/layout-v11/part_recordings_footer.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-v11/part_recordings_footer.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/layout-v11/extendedchannels_whats_on.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-v11/extendedchannels_whats_on.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/layout-v11/timers_item.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-v11/timers_item.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/layout-v11/recordings_item.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-v11/recordings_item.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/layout-v11/devices.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-v11/devices.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/layout-v11/gestures_create.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-v11/gestures_create.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/layout-v11/part_footer.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-v11/part_footer.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/layout-v11/extendedchannels_item.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-v11/extendedchannels_item.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/layout-v11/gestures_list.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-v11/gestures_list.xml"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/menu/channels_option_menu.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/menu/channels_option_menu.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/menu/epg_menu.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/menu/epg_menu.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/menu/main_option_menu.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/menu/main_option_menu.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/menu/gesture_option_menu.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/menu/gesture_option_menu.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/menu/channels_menu.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/menu/channels_menu.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/menu/epgs_menu.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/menu/epgs_menu.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/menu/recordings_menu.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/menu/recordings_menu.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/menu/epgs_option_menu.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/menu/epgs_option_menu.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/menu/recordings_option_menu.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/menu/recordings_option_menu.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/menu/devicepreferences_option_menu.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/menu/devicepreferences_option_menu.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/menu/timers_menu_search.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/menu/timers_menu_search.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/menu/timers_menu.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/menu/timers_menu.xml"
+    }
+]

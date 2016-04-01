@@ -1,0 +1,41 @@
+apply plugin: 'com.android.application'
+android {
+    signingConfigs {
+        ege {
+            keyAlias 'ege'
+            storeFile file('/home/erik/Android/keystore.jks')
+        }
+    }
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+    defaultConfig {
+        applicationId "de.androvdr"
+        minSdkVersion 11
+        targetSdkVersion 23
+        signingConfig signingConfigs.ege
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            signingConfig signingConfigs.ege
+        }
+    }
+    dependencies {
+//        compile fileTree(dir: 'libs', include: ['*.jar'])
+//        compile 'com.android.support:appcompat-v7:23.0.3'
+        compile 'ch.acra:acra:4.8.5'
+        compile 'org.hampelratte:svdrp4j:1.1.0'
+        compile 'org.slf4j:slf4j-log4j12:1.7.20'
+        compile 'com.jcraft:jsch:0.1.53'
+        compile 'com.viewpagerindicator:library:2.4.1@aar'
+    }
+    productFlavors {
+    }
+    lintOptions {
+        abortOnError false
+    }
+}
+
+dependencies {
+}

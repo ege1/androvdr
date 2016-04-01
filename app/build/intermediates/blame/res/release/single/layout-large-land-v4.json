@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/layout-large-land-v4/extendedchannels.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-large-land/extendedchannels.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/layout-large-land-v4/epgsdata.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-large-land/epgsdata.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/layout-large-land-v4/reference_button.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-large-land/reference_button.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/layout-large-land-v4/remote_vdr_main.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-large-land/remote_vdr_main.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/layout-large-land-v4/recordings.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-large-land/recordings.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/layout-large-land-v4/timers.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-large-land/timers.xml"
+    }
+]

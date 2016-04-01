@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/vpi__tab_unselected_pressed_holo.9.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/build/intermediates/exploded-aar/com.viewpagerindicator/library/2.4.1/res/drawable-xhdpi/vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/vpi__tab_unselected_focused_holo.9.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/build/intermediates/exploded-aar/com.viewpagerindicator/library/2.4.1/res/drawable-xhdpi/vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/vpi__tab_selected_focused_holo.9.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/build/intermediates/exploded-aar/com.viewpagerindicator/library/2.4.1/res/drawable-xhdpi/vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abouticon.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-xhdpi/abouticon.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/vpi__tab_unselected_holo.9.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/build/intermediates/exploded-aar/com.viewpagerindicator/library/2.4.1/res/drawable-xhdpi/vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/vpi__tab_selected_pressed_holo.9.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/build/intermediates/exploded-aar/com.viewpagerindicator/library/2.4.1/res/drawable-xhdpi/vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/vpi__tab_selected_holo.9.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/build/intermediates/exploded-aar/com.viewpagerindicator/library/2.4.1/res/drawable-xhdpi/vpi__tab_selected_holo.9.png"
+    }
+]

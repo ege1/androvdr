@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/layout-large-v4/reference_button.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-large/reference_button.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/layout-large-v4/remote_vdr_main.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-large/remote_vdr_main.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/layout-large-v4/remote.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-large/remote.xml"
+    }
+]

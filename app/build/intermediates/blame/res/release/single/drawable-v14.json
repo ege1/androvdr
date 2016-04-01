@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/drawable-v14/btn_keyboard_key_trans_selected.9.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v14/btn_keyboard_key_trans_selected.9.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/release/drawable-v14/btn_keyboard_key_trans_pressed.9.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v14/btn_keyboard_key_trans_pressed.9.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/menu-v11/recordings_option_menu.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/menu-v11/recordings_option_menu.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/menu-v11/main_option_menu.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/menu-v11/main_option_menu.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/menu-v11/channels_option_menu.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/menu-v11/channels_option_menu.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/menu-v11/epgs_option_menu.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/menu-v11/epgs_option_menu.xml"
+    }
+]
