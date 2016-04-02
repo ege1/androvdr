@@ -54,8 +54,8 @@ public class EpgsdataFragment extends AbstractListFragment implements
 	private int mMaxItems;
 	
 	@Override
-	public void onActivityCreated(Bundle savedInstanceState) {
-		super.onActivityCreated(savedInstanceState);
+    public void onViewCreated(View view, Bundle savedInstanceState) {
+        super.onViewCreated(view, savedInstanceState);
 
 		Bundle bundle = mActivity.getIntent().getExtras();
 		if(bundle != null){
@@ -66,9 +66,8 @@ public class EpgsdataFragment extends AbstractListFragment implements
 			mChannelNumber = 0;
 			mMaxItems = Preferences.getVdr().epgmax;
 		}
-	    mView = (LinearLayout) mActivity.findViewById(R.id.epgsdata_main);
-
-		/*
+	    mView = (LinearLayout) view.findViewById(R.id.epgsdata_main);
+        /*
 		 * setTheme doesn't change background color :(
 		 */
 		if (Preferences.blackOnWhite)
