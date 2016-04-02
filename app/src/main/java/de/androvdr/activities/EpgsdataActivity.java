@@ -30,7 +30,7 @@ public class EpgsdataActivity extends AbstractFragmentActivity {
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.epgsdata);
-		
+
 		if (isDualPane()) {
 			int fragmentId;
 			if (Preferences.detailsLeft)

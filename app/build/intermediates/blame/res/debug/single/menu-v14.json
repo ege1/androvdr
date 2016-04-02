@@ -36,12 +36,12 @@
         "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/menu-v14/epgs_menu_light.xml"
     },
     {
-        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/menu-v14/channels_menu.xml",
-        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/menu-v14/channels_menu.xml"
-    },
-    {
         "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/menu-v14/epgs_menu.xml",
         "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/menu-v14/epgs_menu.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/menu-v14/channels_menu.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/menu-v14/channels_menu.xml"
     },
     {
         "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/menu-v14/channels_menu_light.xml",

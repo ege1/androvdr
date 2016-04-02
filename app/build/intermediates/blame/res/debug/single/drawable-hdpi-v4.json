@@ -20,24 +20,24 @@
         "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-hdpi/ic_menu_search.png"
     },
     {
-        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_directions.png",
-        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-hdpi/ic_menu_directions.png"
-    },
-    {
         "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_day.png",
         "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-hdpi/ic_menu_day.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_directions.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-hdpi/ic_menu_directions.png"
     },
     {
         "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
         "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-hdpi/icon.png"
     },
     {
-        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_view.png",
-        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-hdpi/ic_menu_view.png"
-    },
-    {
         "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_close_clear_cancel.png",
         "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-hdpi/ic_menu_close_clear_cancel.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_view.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-hdpi/ic_menu_view.png"
     },
     {
         "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/vpi__tab_unselected_holo.9.png",

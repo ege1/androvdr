@@ -4,12 +4,12 @@
         "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-ldpi/keyboard_background.9.png"
     },
     {
-        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abouticon.png",
-        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-ldpi/abouticon.png"
-    },
-    {
         "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_menu_goto.png",
         "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-ldpi/ic_menu_goto.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abouticon.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-ldpi/abouticon.png"
     },
     {
         "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_menu_view.png",
@@ -44,12 +44,12 @@
         "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-ldpi/stat_ic_menu_login.png"
     },
     {
-        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_menu_login.png",
-        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-ldpi/ic_menu_login.png"
-    },
-    {
         "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png",
         "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_menu_login.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-ldpi/ic_menu_login.png"
     },
     {
         "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_menu_preferences.png",
@@ -60,11 +60,11 @@
         "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-ldpi/ic_menu_close_clear_cancel.png"
     },
     {
-        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_menu_search.png",
-        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-ldpi/ic_menu_search.png"
-    },
-    {
         "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_menu_directions.png",
         "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-ldpi/ic_menu_directions.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_menu_search.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-ldpi/ic_menu_search.png"
     }
 ]

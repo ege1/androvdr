@@ -55,7 +55,7 @@ public class AboutActivity extends AbstractActivity {
 			tv.setText("Version " + version);
 			
 			tv = (TextView) findViewById(R.id.about_url);
-			tv.setText(Html.fromHtml("Project page at <a href=\"http://code.google.com/p/androvdr\">Google Code</a>."));
+			tv.setText(Html.fromHtml("Project page at <a href=\"https://github.com/ege1/androvdr\">gitub</a>."));
 			tv.setMovementMethod(LinkMovementMethod.getInstance());
 
 			tv = (TextView) findViewById(R.id.about_wiki);

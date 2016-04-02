@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-hdpi-v11/ic_menu_info_details.png",
-        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-hdpi-v11/ic_menu_info_details.png"
-    },
-    {
         "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-hdpi-v11/ic_menu_set_as.png",
         "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-hdpi-v11/ic_menu_set_as.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-hdpi-v11/ic_menu_info_details.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-hdpi-v11/ic_menu_info_details.png"
     },
     {
         "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-hdpi-v11/ic_menu_goto.png",
@@ -32,12 +32,12 @@
         "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-hdpi-v11/stat_ic_menu_login.png"
     },
     {
-        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-hdpi-v11/ic_menu_preferences.png",
-        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-hdpi-v11/ic_menu_preferences.png"
-    },
-    {
         "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-hdpi-v11/ic_menu_view.png",
         "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-hdpi-v11/ic_menu_view.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-hdpi-v11/ic_menu_preferences.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-hdpi-v11/ic_menu_preferences.png"
     },
     {
         "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-hdpi-v11/ic_menu_close_clear_cancel.png",

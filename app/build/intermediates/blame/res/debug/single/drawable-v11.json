@@ -32,20 +32,20 @@
         "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v11/btn_keyboard_key_trans_pressed.9.png"
     },
     {
-        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-v11/ic_menu_info_details.png",
-        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v11/ic_menu_info_details.png"
-    },
-    {
         "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-v11/ic_menu_day.png",
         "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v11/ic_menu_day.png"
     },
     {
-        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-v11/ic_lock_power_off.png",
-        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v11/ic_lock_power_off.png"
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-v11/ic_menu_info_details.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v11/ic_menu_info_details.png"
     },
     {
         "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-v11/ic_menu_close_clear_cancel.png",
         "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v11/ic_menu_close_clear_cancel.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-v11/ic_lock_power_off.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v11/ic_lock_power_off.png"
     },
     {
         "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-v11/ic_menu_preferences.png",

@@ -180,12 +180,12 @@
         "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout/remote_vdr_main.xml"
     },
     {
-        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/layout/epgsdata_item.xml",
-        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout/epgsdata_item.xml"
-    },
-    {
         "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/layout/epgsdata_fragment.xml",
         "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout/epgsdata_fragment.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/layout/epgsdata_item.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout/epgsdata_item.xml"
     },
     {
         "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/layout/part_recordings_footer.xml",

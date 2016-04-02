@@ -12,12 +12,12 @@
         "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-v11/extendedchannels_whats_on.xml"
     },
     {
-        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/layout-v11/devices.xml",
-        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-v11/devices.xml"
-    },
-    {
         "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/layout-v11/timers_item.xml",
         "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-v11/timers_item.xml"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/layout-v11/devices.xml",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/layout-v11/devices.xml"
     },
     {
         "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/layout-v11/extendedchannels_item.xml",

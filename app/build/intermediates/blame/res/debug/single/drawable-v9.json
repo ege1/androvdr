@@ -44,11 +44,11 @@
         "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v9/ic_menu_info_details.png"
     },
     {
-        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-v9/ic_menu_close_clear_cancel.png",
-        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v9/ic_menu_close_clear_cancel.png"
-    },
-    {
         "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-v9/ic_menu_login.png",
         "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v9/ic_menu_login.png"
+    },
+    {
+        "merged": "/home/erik/StudioProjects/androvdr/app/build/intermediates/res/merged/debug/drawable-v9/ic_menu_close_clear_cancel.png",
+        "source": "/home/erik/StudioProjects/androvdr/app/src/main/res/drawable-v9/ic_menu_close_clear_cancel.png"
     }
 ]

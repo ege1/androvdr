@@ -146,7 +146,7 @@ ADDED from /home/erik/StudioProjects/androvdr/app/src/main/AndroidManifest.xml:4
 	android:anyDensity
 		ADDED from /home/erik/StudioProjects/androvdr/app/src/main/AndroidManifest.xml:51:3-28
 uses-sdk
-ADDED from /home/erik/StudioProjects/androvdr/app/src/main/AndroidManifest.xml:52:5-72
+ADDED from /home/erik/StudioProjects/androvdr/app/src/main/AndroidManifest.xml:52:5-73
 MERGED from [ch.acra:acra:4.8.5] /home/erik/StudioProjects/androvdr/app/build/intermediates/exploded-aar/ch.acra/acra/4.8.5/AndroidManifest.xml:37:5-72
 MERGED from [com.android.support:support-v4:23.2.0] /home/erik/StudioProjects/androvdr/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/AndroidManifest.xml:20:5-43
 MERGED from [com.viewpagerindicator:library:2.4.1] /home/erik/StudioProjects/androvdr/app/build/intermediates/exploded-aar/com.viewpagerindicator/library/2.4.1/AndroidManifest.xml:3:5-42
@@ -155,7 +155,7 @@ MERGED from [com.viewpagerindicator:library:2.4.1] /home/erik/StudioProjects/and
 		INJECTED from /home/erik/StudioProjects/androvdr/app/src/main/AndroidManifest.xml
 		INJECTED from /home/erik/StudioProjects/androvdr/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /home/erik/StudioProjects/androvdr/app/src/main/AndroidManifest.xml:52:45-70
+		ADDED from /home/erik/StudioProjects/androvdr/app/src/main/AndroidManifest.xml:52:45-71
 		INJECTED from /home/erik/StudioProjects/androvdr/app/src/main/AndroidManifest.xml
 		INJECTED from /home/erik/StudioProjects/androvdr/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
