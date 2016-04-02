@@ -2,18 +2,18 @@
 <items version="2" >
 
     <item
-        jar="/home/erik/StudioProjects/androvdr/app/build/intermediates/exploded-aar/com.viewpagerindicator/library/2.4.1/jars/classes.jar"
+        jar="/home/erik/StudioProjects/androvdr/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
         jumboMode="false"
         revision="23.0.3"
-        sha1="88e8e18d365173ad04a543d76c157e0b644f0b3f">
-        <dex dex="/home/erik/StudioProjects/androvdr/app/build/intermediates/pre-dexed/debug/com.viewpagerindicator-library-2.4.1_8d130dc5a6cd6e77f069324691027ec2a74b7628.jar" />
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/erik/StudioProjects/androvdr/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_21274635cf85a3a36180c1afedef879300ac1681.jar" />
     </item>
     <item
-        jar="/home/erik/StudioProjects/androvdr/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jar="/home/erik/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-log4j12/1.7.20/15b4332f9b388bdb49048eb09082b015180e4f14/slf4j-log4j12-1.7.20.jar"
         jumboMode="false"
         revision="23.0.3"
-        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
-        <dex dex="/home/erik/StudioProjects/androvdr/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_0b9a6c4fc25b95e4e7eee06d283ef124abdd0641.jar" />
+        sha1="15b4332f9b388bdb49048eb09082b015180e4f14">
+        <dex dex="/home/erik/StudioProjects/androvdr/app/build/intermediates/pre-dexed/debug/slf4j-log4j12-1.7.20_f3768ba15c64aa823694cbcf7a424dfe3db0e43b.jar" />
     </item>
     <item
         jar="/home/erik/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.20/867d63093eff0a0cb527bf13d397d850af3dcae3/slf4j-api-1.7.20.jar"
@@ -23,11 +23,18 @@
         <dex dex="/home/erik/StudioProjects/androvdr/app/build/intermediates/pre-dexed/debug/slf4j-api-1.7.20_8b5b3896404471f0a8fc5c19b8d3262a162f5b1c.jar" />
     </item>
     <item
-        jar="/home/erik/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jar="/home/erik/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.17/5af35056b4d257e4b64b9e8069c0746e8b08629f/log4j-1.2.17.jar"
         jumboMode="false"
         revision="23.0.3"
-        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
-        <dex dex="/home/erik/StudioProjects/androvdr/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_1ac85dac55c096a5d74c9a8e92ee15c3c8d8a09c.jar" />
+        sha1="5af35056b4d257e4b64b9e8069c0746e8b08629f">
+        <dex dex="/home/erik/StudioProjects/androvdr/app/build/intermediates/pre-dexed/debug/log4j-1.2.17_414bb0c1a1f6b4a306ddb7da3db6788c6a4fc2a3.jar" />
+    </item>
+    <item
+        jar="/home/erik/StudioProjects/androvdr/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/home/erik/StudioProjects/androvdr/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_0b9a6c4fc25b95e4e7eee06d283ef124abdd0641.jar" />
     </item>
     <item
         jar="/home/erik/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch/0.1.53/658b682d5c817b27ae795637dfec047c63d29935/jsch-0.1.53.jar"
@@ -44,25 +51,18 @@
         <dex dex="/home/erik/StudioProjects/androvdr/app/build/intermediates/pre-dexed/debug/ch.acra-acra-4.8.5_fcd59b38f0e8d132d29e68bc5b73253305dcc319.jar" />
     </item>
     <item
-        jar="/home/erik/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-log4j12/1.7.20/15b4332f9b388bdb49048eb09082b015180e4f14/slf4j-log4j12-1.7.20.jar"
+        jar="/home/erik/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
         jumboMode="false"
         revision="23.0.3"
-        sha1="15b4332f9b388bdb49048eb09082b015180e4f14">
-        <dex dex="/home/erik/StudioProjects/androvdr/app/build/intermediates/pre-dexed/debug/slf4j-log4j12-1.7.20_f3768ba15c64aa823694cbcf7a424dfe3db0e43b.jar" />
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/home/erik/StudioProjects/androvdr/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_1ac85dac55c096a5d74c9a8e92ee15c3c8d8a09c.jar" />
     </item>
     <item
-        jar="/home/erik/StudioProjects/androvdr/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jar="/home/erik/StudioProjects/androvdr/app/build/intermediates/exploded-aar/com.viewpagerindicator/library/2.4.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.3"
-        sha1="6e239441500605809818997dd63b62a947195f8c">
-        <dex dex="/home/erik/StudioProjects/androvdr/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_21274635cf85a3a36180c1afedef879300ac1681.jar" />
-    </item>
-    <item
-        jar="/home/erik/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.17/5af35056b4d257e4b64b9e8069c0746e8b08629f/log4j-1.2.17.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="5af35056b4d257e4b64b9e8069c0746e8b08629f">
-        <dex dex="/home/erik/StudioProjects/androvdr/app/build/intermediates/pre-dexed/debug/log4j-1.2.17_414bb0c1a1f6b4a306ddb7da3db6788c6a4fc2a3.jar" />
+        sha1="88e8e18d365173ad04a543d76c157e0b644f0b3f">
+        <dex dex="/home/erik/StudioProjects/androvdr/app/build/intermediates/pre-dexed/debug/com.viewpagerindicator-library-2.4.1_8d130dc5a6cd6e77f069324691027ec2a74b7628.jar" />
     </item>
     <item
         jar="/home/erik/.gradle/caches/modules-2/files-2.1/org.hampelratte/svdrp4j/1.1.0/5541574ac256bf44f642d42454380d70ab1d2128/svdrp4j-1.1.0.jar"
